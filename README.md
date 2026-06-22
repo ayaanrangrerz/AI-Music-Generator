@@ -1,4 +1,4 @@
-# AI-Music-Generato
+# AI-Music-Generator
 
 Generates MIDI music sequences using deep learning.
 
